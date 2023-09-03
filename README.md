@@ -1,2 +1,7 @@
 # fcc-fast-api-practice
-following tutorial on Free Code Camp, a project for practicing Python Fast API
+
+A project for practicing Python Fast API, made by following tutorial on Free Code Camp.
+
+## Credits
+
+[The Free Code Camp Tutorial](https://youtu.be/0sOvCWFmrtA?si=3bjvCLfwGBztxMho)
